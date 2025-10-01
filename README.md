@@ -1,5 +1,6 @@
 # FastRTC Groq Voice Agent
 
+
 This project demonstrates voice interactions with AI assistants using FastRTC and Groq.
 
 ## Setup
